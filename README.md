@@ -21,7 +21,7 @@ Conducted a survey among first and second-year engineering students to understan
 - Internship recommendations often feel irrelevant to beginners
 - Reminders and deadlines have no dedicated space
 
-→ Full research documentation: [Notion Link]
+→ Full research documentation: https://www.notion.so/Research-Summary-36db4fe8aeae80b3a31ccbf79c9a4a76?source=copy_link
 
 ---
 
@@ -29,13 +29,13 @@ Conducted a survey among first and second-year engineering students to understan
 
 Responses were grouped into four clusters: **Tracking Issues**, **Beginner Confusion**, **Discovery Problems**, and **Organization Needs**.
 
-→ View on FigJam: [FigJam Link]
+→ View on FigJam: https://www.figma.com/board/3anFGiRsuvEEXehwRtCivF/Affinity-Map-LinkedIn-Internship-UX?t=h8NeNLzhzXoHvKjg-1
 
 ---
 
 ## User Persona
 
-**Aarav Sharma** — 18, BTech CSE, 1st Year
+**Aditya** — 18, BTech CSE, 1st Year
 
 > *"Applying is easy. Tracking everything is not."*
 
@@ -45,13 +45,14 @@ A student actively exploring internships but losing steam trying to stay organiz
 
 ## Wireframes
 
-Low-fidelity screens covering four core flows:
+Low-fidelity screens covering five core flows:
 - Internship Dashboard (Kanban-style tracker)
 - Beginner-friendly Discovery feed
+- Applications list
 - Application detail + reminders
 - Resume organizer
 
-→ View on Figma: [Figma Link]
+→ View on Figma: https://www.figma.com/design/g37T9z3pkCSBDaN0VBDSHn/Wireframe-LinkedIn-Internship-UX?node-id=0-1&t=c4IHdLaK2HreKxEM-1
 
 ---
 
